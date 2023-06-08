@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>亿速云 - 领先的云服务器、高防服务器、香港服务器云计算服务商！</title>
+    <meta name="description" content="广州亿速云计算有限公司是一家注册资金一千万并将募集投资一亿以上的专业云计算公司，致力于将云计算与网络核心技术转化为最稳定、安全、高速以及极具性价比的云服务器、高防服务器、香港服务器、美国服务器等产品提供给用户。"/>
+    <meta name="keywords" content="云服务器,高防服务器,香港服务器,美国服务器"/>
+    <meta itemprop="name" content="亿速云"/>
+    <meta itemprop="description" name="description" content="领先的全球云计算和云安全提供商！" />
+    <meta itemprop="image" content="https://cache.yisu.com/www/images/yisu_logo.png" />
+    <link rel="shortcut icon" href="https://cache.yisu.com/www/images/favicon.ico">
+    <link rel="stylesheet" href="https://cache.yisu.com/www/css/base.css"/>
+    <link rel="stylesheet" href="https://cache.yisu.com/www/css/yisu-footer.css"/>
+    <style>
+        body,html{
+            height: 100%;
+        }
+        .math-center{
+            position: relative;
+            width: 100%;
+            height: 40%;
+        }
+        .math-center span{
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 130px;
+            line-height: 130px;
+            font-size: 130px;
+            color: #bcc6d2;
+            text-align: center;
+        }
+        .no-title{
+            height: 120px;
+            line-height: 120px;
+            font-size: 40px;
+            color: #2d3137;
+            text-align: center;
+            margin-top: 10px;
+        }
+        .btn-center{
+            width: 470px;
+            height: 28%;
+            min-height: 100px;
+            margin: 0 auto;
+        }
+        .btn-center a{
+            float: left;
+            width: 218px;
+            height: 48px;
+            line-height: 50px;
+            font-size: 19px;
+            color: #5e6e80;
+            background-color: #fff;
+            text-align: center;
+            border: 1px solid #5e6e80;
+            -webkit-border-radius: 3px;
+            -moz-border-radius: 3px;
+            border-radius: 3px;
+        }
+        .btn-center a.back-btn{
+            float: right;
+            color: #fff;
+            background-color: #FF6666;
+            border-color: #FF6666;
+        }
+        /*------------------版权开始------------------*/
+        #footer { width:1200px; margin: 0 auto;}
+        .footer_top{overflow: hidden; border-bottom: 1px solid #d7d7d7;}
+        .blogo{width:133px; float: left; padding-top: 21px;}
+        .bnav{ float: left;/*width:640px;*/ padding-left: 40px;}
+        .bnav ul{overflow: hidden;}
+        .bnav li{float: left; line-height: 80px; padding-right: 20px;}
+        .bnav a{font-size: 18px;color: #232323; }
+        .lxnr{float: right;}
+        .lxnr p{font-size: 18px;color: #232323; line-height: 80px; background: url(images/a_27.png); background-repeat: no-repeat;
+            background-position: left center;}
+        .bqxx{font-size: 14px;color: #555555; line-height: 26px;}
+        .gnrbt{float: right;}
+        .gnrbt a{display: inline-block; padding-left: 25px;}
+        .bqxx{padding: 15px 0;}
+        /*------------------版权结束------------------*/
+    </style>
+</head>
+<body>
+<div class="math-center"><span>404</span></div>
+<div class="no-title">找不到您所访问的页面</div>
+<div class="btn-center"><a href="javascript:;" onclick="window.location.reload();">刷新</a><a href="/" class="back-btn">返回首页</a></div>
+<div id="footer">
+    <div class="footer_top">
+        <div class="blogo"><a href="/"><img src="https://cache.yisu.com/www/images/a_24.png"></a></div>
+        <div class="bnav">
+            <ul>
+                <li><a href="/">首页</a></li>
+                <li><a href="/cloud/">云服务器</a></li>
+                <li><a href="/ddos/">高防服务器</a></li>
+                <li><a href="/hk/">香港服务器</a></li>
+                <li><a href="/usa/">美国服务器</a></li>
+                <li><a href="/ip/"> 高防IP</a></li>
+                <li><a href="/ssl/"> SSL安全证书</a></li>
+                <li><a href="/about/">关于我们</a></li>
+                <li><a href="/employ/">招聘</a></li>
+            </ul>
+        </div>
+        <div class="lxnr">
+            <p>服务热线：400 100 2938</p>
+        </div>
+    </div>
+    <div class="bqxx footer-bottom">
+        <div class="gnrbt">
+            <a href="javascript:;"><img src="https://cache.yisu.com/www/images/a_31.png"></a>
+            <a href="javascript:;"><img src="https://cache.yisu.com/www/images/a_33.png"></a>
+            <a href="javascript:;"><img src="https://cache.yisu.com/www/images/a_35.png"></a>
+            <a href="javascript:;"><img src="https://cache.yisu.com/www/images/a_37.png"></a>
+        </div>
+        <p>Copyright © Yisu Cloud Ltd. All Rights Reserved. 2018 版权所有</p>
+        <p>广州亿速云计算有限公司 &nbsp;&nbsp; 粤ICP备17118469号-1 &nbsp;&nbsp; <span><span class="police-icon"></span>粤公网安备 44010402001142号</span> &nbsp;&nbsp; <!--律所顾问：广州正大 &nbsp;&nbsp;--> Tel: 400 100 2938 &nbsp;&nbsp;</p>
+    </div>
+</div>
+<script src="js/jquery.min.js"></script>
+<script src="js/navControl.js"></script>
+</body>
+</html>
